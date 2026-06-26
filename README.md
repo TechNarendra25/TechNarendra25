@@ -16,7 +16,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TechNarendra25&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
   <img src="https://img.shields.io/github/followers/TechNarendra25?label=Followers&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/stars/TechNarendra25?label=Stars&style=for-the-badge"/>
 </p>
 
 ---
@@ -98,10 +97,10 @@
 
 | Project | Year | Description |
 |---------|------|-------------|
-| 🩺 Healthcare Premium Prediction AI | 2026 | Machine Learning system for predicting healthcare insurance premiums. |
-| 💊 MedInsight AI | 2026 | AI-powered medicine information and analytics platform. |
-| 🏠 Intelligent Property Price Analyzer | 2024 | End-to-end Machine Learning project for property price prediction. |
-| 📊 Excel Data Analysis Dashboard | 2025 | Interactive dashboard for business and customer insights. |
+| 🩺 Healthcare Premium Prediction AI | 2026 | Machine Learning system for predicting healthcare insurance premiums using regression models and interactive visualizations. |
+| 💊 MedInsight AI | 2026 | AI-powered medicine information and analytics platform leveraging Generative AI and intelligent data insights. |
+| 🏠 Intelligent Property Price Analyzer | 2024 | End-to-end Machine Learning project that predicts property prices through an interactive web application. |
+| 📊 Excel Data Analysis Dashboard | 2025 | Interactive dashboard for analyzing business performance and customer insights using Microsoft Excel. |
 
 ---
 
@@ -109,6 +108,7 @@
 
 <p align="center">
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=TechNarendra25&show_icons=true&theme=tokyonight&hide_border=true"/>
+
 <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=TechNarendra25&theme=tokyonight&hide_border=true"/>
 </p>
 
@@ -128,14 +128,6 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/TechNarendra25/TechNarendra25/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=TechNarendra25&theme=tokyonight&row=1&column=7"/>
 </p>
 
 ---
