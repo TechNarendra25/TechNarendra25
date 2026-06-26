@@ -34,7 +34,7 @@
 
 💬 Ask me about **Python, SQL, Power BI, Machine Learning, APIs & Generative AI**
 
-📍 Based in **Indore, Madhya Pradesh, India**
+📍 Based in **Mumbai, Maharashtra India**
 
 ⚡ Fun Fact: **I love transforming raw data into intelligent solutions and automation workflows.**
 
