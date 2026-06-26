@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:6B73FF&height=280&section=header&text=Narendra%20Vispute&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
@@ -77,7 +78,7 @@
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
@@ -116,7 +117,6 @@
 
 <p align="center">
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=TechNarendra25&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=TechNarendra25&theme=tokyonight&hide_border=true"/>
 </p>
 
@@ -129,6 +129,14 @@
 # 📈 Contribution Graph
 
 [![Narendra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TechNarendra25&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TechNarendra25/TechNarendra25/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 ---
 
@@ -145,8 +153,8 @@
 | Goal | Status |
 |------|---------|
 | 🚀 Build Innovative AI & Automation Projects | 🔄 In Progress |
-| 🤖 Master Automation Engineering & AI Workflows | 🔄 In Progress |
-| 🧠 Learn LLMs, OpenAI & Azure AI Services | 📚 Learning |
+| 🤖 Learn Automation Engineering & AI Workflows | 🔄 In Progress |
+| 🧠 Master LLMs, OpenAI & Azure AI Services | 📚 Learning |
 | 📈 Improve Technical & Domain Knowledge | 📚 Continuous Learning |
 | 💡 Build Production-Ready AI Applications | 🎯 Planned |
 | 🌟 Become a Skilled Data Scientist & AI Engineer | 🚀 Mission 2026 |
@@ -163,7 +171,7 @@
 ☁️ Microsoft Azure AI Services
 📊 Advanced Data Science & Machine Learning
 🚀 Production-Ready AI Application Development
-````
+```
 
 ---
 
@@ -206,4 +214,4 @@ Data Scientist / AI Engineer
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6B73FF,50:764ba2,100:667eea&height=120&section=footer"/>
 </p>
-```
+
