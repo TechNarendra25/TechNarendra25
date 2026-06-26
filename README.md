@@ -96,20 +96,12 @@
 
 # 🚀 Featured Projects
 
-🏠 **Intelligent Property Price Analyzer**  
-📈 End-to-end Machine Learning project that predicts property prices.
-
-💊 **MedInsight AI**  
-🤖 AI-powered medicine information and analytics platform.
-
-🩺 **Healthcare Premium Prediction AI**  
-📊 Machine Learning system for predicting healthcare insurance premiums.
-
-📉 **Excel Data Analysis Dashboard**  
-📊 Interactive dashboard for business and customer insights.
-
-⚙️ **Automated Data Preprocessing Tool**  
-🧹 Python-based tool that automates data cleaning and preprocessing workflows.
+| Project | Year | Description |
+|---------|------|-------------|
+| 🩺 Healthcare Premium Prediction AI | 2026 | Machine Learning system for predicting healthcare insurance premiums. |
+| 💊 MedInsight AI | 2026 | AI-powered medicine information and analytics platform. |
+| 🏠 Intelligent Property Price Analyzer | 2024 | End-to-end Machine Learning project for property price prediction. |
+| 📊 Excel Data Analysis Dashboard | 2025 | Interactive dashboard for business and customer insights. |
 
 ---
 
@@ -135,7 +127,7 @@
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TechNarendra25/TechNarendra25/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/TechNarendra25/TechNarendra25/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
 
 ---
@@ -214,4 +206,3 @@ Data Scientist / AI Engineer
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6B73FF,50:764ba2,100:667eea&height=120&section=footer"/>
 </p>
-
