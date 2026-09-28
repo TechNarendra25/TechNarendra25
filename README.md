@@ -120,49 +120,7 @@
 | 🏠 **Intelligent Property Price Analyzer** | 2024 | Machine-learning application for property price prediction using Python, Flask and Scikit-learn. |
 | 📊 **Excel FNP Sales Analysis Dashboard** | 2025 | Interactive Excel dashboard for sales analysis, KPIs and business insights. |
 
----
 
-# 📊 GitHub Dashboard
-
-<p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=TechNarendra25&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180" src="https://streak-stats.demolab.com/?user=TechNarendra25&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechNarendra25&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<a href="https://github.com/TechNarendra25">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TechNarendra25&theme=tokyo-night&hide_border=true&area=true&custom_title=Narendra%20Vispute%20-%20GitHub%20Contribution%20Graph"/>
-
-</a>
-
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=TechNarendra25&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"/>
-
-</p>
-
----
 
 # 🐍 Contribution Snake
 
